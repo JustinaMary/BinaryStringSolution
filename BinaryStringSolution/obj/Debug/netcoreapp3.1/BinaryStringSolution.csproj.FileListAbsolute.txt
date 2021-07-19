@@ -1,0 +1,13 @@
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\bin\Debug\netcoreapp3.1\BinaryStringSolution.exe
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\bin\Debug\netcoreapp3.1\BinaryStringSolution.deps.json
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\bin\Debug\netcoreapp3.1\BinaryStringSolution.runtimeconfig.json
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\bin\Debug\netcoreapp3.1\BinaryStringSolution.runtimeconfig.dev.json
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\bin\Debug\netcoreapp3.1\BinaryStringSolution.dll
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\bin\Debug\netcoreapp3.1\BinaryStringSolution.pdb
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\obj\Debug\netcoreapp3.1\BinaryStringSolution.csprojAssemblyReference.cache
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\obj\Debug\netcoreapp3.1\BinaryStringSolution.AssemblyInfoInputs.cache
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\obj\Debug\netcoreapp3.1\BinaryStringSolution.AssemblyInfo.cs
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\obj\Debug\netcoreapp3.1\BinaryStringSolution.csproj.CoreCompileInputs.cache
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\obj\Debug\netcoreapp3.1\BinaryStringSolution.dll
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\obj\Debug\netcoreapp3.1\BinaryStringSolution.pdb
+C:\Users\HHAdmin\source\repos\BinaryStringSolution\BinaryStringSolution\obj\Debug\netcoreapp3.1\BinaryStringSolution.genruntimeconfig.cache
